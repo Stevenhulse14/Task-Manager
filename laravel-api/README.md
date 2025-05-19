@@ -22,7 +22,7 @@ git clone https://github.com/your-username/task-manager-api.git
 cd task-manager-api
 ```
 
-````
+
 
 ### 2. Install dependencies
 
@@ -88,4 +88,4 @@ Open in browser: [http://localhost:8000](http://localhost:8000)
 ```
 
 ```
-````
+
